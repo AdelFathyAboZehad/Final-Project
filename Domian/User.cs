@@ -17,6 +17,7 @@ namespace Domian
         public string UserName { get; set; }
         [DataType(DataType.EmailAddress), RegularExpression(@"^[^@\s]+@[^@\s]+\.(com|net|org|gov)$")]
         public string Email { get; set; }
+        //valadation user name
         [MaxLength(50), Required]
         [DataType(DataType.Password)]
         [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[#$^+=!*()@%&]).{8,}$")]
