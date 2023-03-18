@@ -1,0 +1,24 @@
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.csproj.AssemblyReference.cache
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.AssemblyInfoInputs.cache
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.AssemblyInfo.cs
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.csproj.CoreCompileInputs.cache
+D:\FinalProject\Domian\bin\Debug\net7.0\Domian.deps.json
+D:\FinalProject\Domian\bin\Debug\net7.0\Domian.dll
+D:\FinalProject\Domian\bin\Debug\net7.0\Domian.pdb
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.dll
+D:\FinalProject\Domian\obj\Debug\net7.0\refint\Domian.dll
+D:\FinalProject\Domian\obj\Debug\net7.0\Domian.pdb
+D:\FinalProject\Domian\obj\Debug\net7.0\ref\Domian.dll
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\bin\Debug\net7.0\Domian.deps.json
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\bin\Debug\net7.0\Domian.dll
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\bin\Debug\net7.0\Domian.pdb
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.csproj.AssemblyReference.cache
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.AssemblyInfoInputs.cache
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.AssemblyInfo.cs
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.csproj.CoreCompileInputs.cache
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.dll
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\refint\Domian.dll
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\Domian.pdb
+G:\Last Version Of Final Project\FinalProject\FinalProject\Domian\obj\Debug\net7.0\ref\Domian.dll
